@@ -6,13 +6,13 @@
 
 The project requires Python 3.6 or newer. Dependencies include:
 
-facebook-sdk: For interacting with the Facebook Graph API.
-instagrapi: A modern, easy-to-use, feature-rich, and async-ready API wrapper for Instagram written in Python.
-aiogram: A pretty simple and fully asynchronous framework for Telegram Bot API written in Python with asyncio and aiohttp.
-Pillow: A python imaging library used for opening, manipulating, and saving many different image file formats.
-requests: A simple, yet elegant HTTP library used to make HTTP requests simpler and more human-friendly.
-geopy: A client for several popular geocoding web services used for geolocation functionalities.
-logging: For logging errors and messages.
+|facebook-sdk: |For interacting with the Facebook Graph API.|
+|instagrapi: |A modern, easy-to-use, feature-rich, and async-ready API wrapper for Instagram written in Python.|
+|aiogram: |A pretty simple and fully asynchronous framework for Telegram Bot API written in Python with asyncio and aiohttp.|
+|Pillow: |A python imaging library used for opening, manipulating, and saving many different image file formats.|
+|requests: |A simple, yet elegant HTTP library used to make HTTP requests simpler and more human-friendly.|
+|geopy: |A client for several popular geocoding web services used for geolocation functionalities.|
+|logging: |For logging errors and messages.|
 ## Usage
 
 ### Facebook
